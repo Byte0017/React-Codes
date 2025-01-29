@@ -1,0 +1,7 @@
+
+.App{
+    text-align: center;
+    color: #ff6f61; /* Change color on hover */
+    transform: scale(2.1); /* Slightly enlarge */
+    transition: all 0.3s ease-in-out;
+}
